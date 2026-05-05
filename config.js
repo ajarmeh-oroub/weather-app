@@ -1,4 +1,4 @@
-//not the real key
+
 const CONFIG = {
-    WEATHER_API_KEY: window._env_?.WEATHER_API_KEY || '7eabf17185beb048c35f470eeac8' 
+    WEATHER_API_KEY: window._env_?.WEATHER_API_KEY || 'your_api_key_here'
 };
